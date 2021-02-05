@@ -11,7 +11,7 @@ function Hangman({hangman}){
         first,
         second,
         third,
-        fourth,
+        fourth, 
         fifth,
         six
         ]
